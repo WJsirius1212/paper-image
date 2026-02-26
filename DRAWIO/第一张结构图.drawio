@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HZx6HUhPZTERk6ssAr5b-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第1章 绪论" vertex="1">
-          <mxGeometry height="40" width="280" x="-311" y="190" as="geometry" />
-        </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="研究背景与意义" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="140" as="geometry" />
         </mxCell>
@@ -15,9 +12,6 @@
         </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="本文核心贡献" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="245" as="geometry" />
-        </mxCell>
-        <mxCell id="HZx6HUhPZTERk6ssAr5b-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第2章 背景知识" vertex="1">
-          <mxGeometry height="40" width="280" x="-311" y="340" as="geometry" />
         </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="集成学习三大核心范式" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="290" as="geometry" />
@@ -28,17 +22,11 @@
         <mxCell id="HZx6HUhPZTERk6ssAr5b-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="算法底层理论支撑" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="395" as="geometry" />
         </mxCell>
-        <mxCell id="HZx6HUhPZTERk6ssAr5b-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第3章 基于扩散模型的两阶段集成约简方法设计" vertex="1">
-          <mxGeometry height="40" width="280" x="-311" y="490" as="geometry" />
-        </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="预测矩阵图像化与掩码冗余评估" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="460" as="geometry" />
         </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="布尔逻辑构建与硬件友好型聚合" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="HZx6HUhPZTERk6ssAr5b-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第4章 实验设计与结果分析" vertex="1">
-          <mxGeometry height="40" width="280" x="-311" y="640" as="geometry" />
         </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="两阶段方法有效性与合理性验证" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="610" as="geometry" />
@@ -46,26 +34,11 @@
         <mxCell id="HZx6HUhPZTERk6ssAr5b-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="核心性能指标多维对比评估" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="HZx6HUhPZTERk6ssAr5b-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第5章 总结与展望" vertex="1">
-          <mxGeometry height="40" width="280" x="-311" y="790" as="geometry" />
-        </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="全文工作总结与创新点归纳" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="760" as="geometry" />
         </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="现有局限性反思与未来工作展望" vertex="1">
           <mxGeometry height="35" width="260" x="49" y="820" as="geometry" />
-        </mxCell>
-        <mxCell id="HZx6HUhPZTERk6ssAr5b-52" edge="1" parent="1" source="HZx6HUhPZTERk6ssAr5b-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.5;endArrow=classic;endFill=1;" target="HZx6HUhPZTERk6ssAr5b-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HZx6HUhPZTERk6ssAr5b-53" edge="1" parent="1" source="HZx6HUhPZTERk6ssAr5b-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.5;endArrow=classic;endFill=1;" target="HZx6HUhPZTERk6ssAr5b-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HZx6HUhPZTERk6ssAr5b-54" edge="1" parent="1" source="HZx6HUhPZTERk6ssAr5b-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.5;endArrow=classic;endFill=1;" target="HZx6HUhPZTERk6ssAr5b-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HZx6HUhPZTERk6ssAr5b-55" edge="1" parent="1" source="HZx6HUhPZTERk6ssAr5b-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.5;endArrow=classic;endFill=1;" target="HZx6HUhPZTERk6ssAr5b-49">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-56" edge="1" parent="1" source="HZx6HUhPZTERk6ssAr5b-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.5;endArrow=none;endFill=0;" target="HZx6HUhPZTERk6ssAr5b-36">
           <mxGeometry relative="1" as="geometry" />
@@ -105,6 +78,36 @@
         </mxCell>
         <mxCell id="HZx6HUhPZTERk6ssAr5b-68" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=SimSun;fontSize=14;fontColor=#000000;" value="图1-1 本文章节结构安排图" vertex="1">
           <mxGeometry height="30" width="300" x="-127.5" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-69" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="640" width="329" x="-360" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-35" parent="HZx6HUhPZTERk6ssAr5b-69" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第1章 绪论" vertex="1">
+          <mxGeometry height="40" width="329" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-39" parent="HZx6HUhPZTERk6ssAr5b-69" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第2章 背景知识" vertex="1">
+          <mxGeometry height="40" width="329" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-43" parent="HZx6HUhPZTERk6ssAr5b-69" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第3章 基于扩散模型的两阶段集成约简方法设计" vertex="1">
+          <mxGeometry height="40" width="329" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-46" parent="HZx6HUhPZTERk6ssAr5b-69" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第4章 实验设计与结果分析" vertex="1">
+          <mxGeometry height="40" width="329" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-49" parent="HZx6HUhPZTERk6ssAr5b-69" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SimSun;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=1.5;" value="第5章 总结与展望" vertex="1">
+          <mxGeometry height="40" width="329" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-52" edge="1" parent="HZx6HUhPZTERk6ssAr5b-69" source="HZx6HUhPZTERk6ssAr5b-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.5;endArrow=classic;endFill=1;" target="HZx6HUhPZTERk6ssAr5b-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-53" edge="1" parent="HZx6HUhPZTERk6ssAr5b-69" source="HZx6HUhPZTERk6ssAr5b-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.5;endArrow=classic;endFill=1;" target="HZx6HUhPZTERk6ssAr5b-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-54" edge="1" parent="HZx6HUhPZTERk6ssAr5b-69" source="HZx6HUhPZTERk6ssAr5b-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.5;endArrow=classic;endFill=1;" target="HZx6HUhPZTERk6ssAr5b-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZx6HUhPZTERk6ssAr5b-55" edge="1" parent="HZx6HUhPZTERk6ssAr5b-69" source="HZx6HUhPZTERk6ssAr5b-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1.5;endArrow=classic;endFill=1;" target="HZx6HUhPZTERk6ssAr5b-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
